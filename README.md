@@ -18,6 +18,7 @@ git branch : untuk mengecek branch yang ada pada repository
 
 git pull : untuk menarik data asal branch ke branch lainnya
 
+git stash: untuk mengembalikan perubahan ke awal atau undo
 
 Prakteknya:
 - git clone https://github.com/marioviegash/git-learn.git
